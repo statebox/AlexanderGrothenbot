@@ -1,0 +1,16 @@
+{
+  "name": "appliedCategoryTelegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.32.0",
+    "telegraph": "^0.8.22"
+  }
+}
